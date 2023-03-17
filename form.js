@@ -1,5 +1,5 @@
 let url = "https://suggestions.dadata.ru/suggestions/api/4_1/rs/suggest/party";
-let token = "134aae0fbc9869bf537af3820d98f6ea609c387a";
+let token = "983865f49f3dde8aa93281c7fe407b70ba5a73ff";
 
 let options = {
   method: "POST",
